@@ -4,7 +4,7 @@
 
 # Usage
 
-`$ npm install -g lnpm`
+`$ npm install -g l.npm`
 
 `$ l.npm install [--production]`
 
