@@ -1,6 +1,6 @@
 {
   "name": "l.npm",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "lightweight npm install",
   "bin": "index.js",
   "main": "index.js",
