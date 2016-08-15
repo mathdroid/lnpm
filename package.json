@@ -1,0 +1,22 @@
+{
+  "name": "l.npm",
+  "version": "0.0.1",
+  "description": "lightweight npm install",
+  "bin": "index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "install",
+    "light",
+    "ram"
+  ],
+  "author": "Muhammad Mustadi <muhammad.mustadi@gmail.com> (http://mustadi.xyz)",
+  "license": "ISC",
+  "dependencies": {
+    "cross-spawn": "^4.0.0",
+    "meow": "^3.7.0"
+  }
+}
