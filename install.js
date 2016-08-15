@@ -14,7 +14,7 @@ function install (opts, p) {
     })
   }
   let pkgs = packages.join(';')
-  console.log(pkgs)
+  // console.log(pkgs)
 //   // let script = ['echo', 'hey']
 //   let script = `dependencies=${pkgs}
 // array=(\${dependencies//;/ })
